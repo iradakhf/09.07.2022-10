@@ -7,7 +7,7 @@ namespace ConsoleApp17
         {
             
             string word = "pro";
-           
+
 
             ProDocumentProgram pro = new ProDocumentProgram();//pro sozune uygun muvafiq obyekt pro
             ExpertDocumentProgram expert = new ExpertDocumentProgram();
@@ -38,7 +38,7 @@ namespace ConsoleApp17
                 }
             else
             {
-                Console.WriteLine();
+                Console.WriteLine("none");
             }
              
 
